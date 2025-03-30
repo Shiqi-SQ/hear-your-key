@@ -1,7 +1,7 @@
 # Hear Your Key - 键盘声音识别
 
 ![键盘声音识别](https://img.shields.io/badge/键盘声音识别-v1.0-blue)
-![Python](https://img.shields.io/badge/Python-3.8+-green)
+![Python](https://img.shields.io/badge/Python-3.x-green)
 ![PyQt5](https://img.shields.io/badge/PyQt5-5.15+-orange)
 ![Librosa](https://img.shields.io/badge/Librosa-0.9+-yellow)
 
@@ -19,7 +19,7 @@ Hear Your Key 的可行性源于现代设备的普遍配置。几乎所有笔记
 
 ### 环境要求
 
-- Python 3+
+- Python 3.x
 
 ### 安装步骤
 
