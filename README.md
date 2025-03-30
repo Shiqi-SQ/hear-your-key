@@ -1,11 +1,11 @@
-# Hear Your Key - 键盘声音识别工具
+# Hear Your Key - 键盘声音识别
 
 ![键盘声音识别](https://img.shields.io/badge/键盘声音识别-v1.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.8+-green)
 ![PyQt5](https://img.shields.io/badge/PyQt5-5.15+-orange)
 ![Librosa](https://img.shields.io/badge/Librosa-0.9+-yellow)
 
-Hear Your Key 是一个基于机器学习的键盘声音识别工具，能够通过麦克风捕获键盘按键声音，并识别出按下的是哪个按键。该工具采用PyQt5构建用户界面，使用librosa进行音频特征提取，通过随机森林算法实现按键声音的分类识别。
+Hear Your Key 能够通过麦克风捕获键盘按键声音，并识别出按下的是哪个按键。该工具采用PyQt5构建用户界面，使用librosa进行音频特征提取，通过随机森林算法实现按键声音的分类识别。
 
 ## 安装
 
