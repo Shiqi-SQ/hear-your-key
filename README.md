@@ -26,7 +26,7 @@ Hear Your Key 的可行性源于现代设备的普遍配置。几乎所有笔记
 1. 克隆仓库到本地
 
 ```bash
-git clone https://github.com/yourusername/hear-your-key.git
+git clone https://github.com/Shiqi-SQ/hear-your-key.git
 cd hear-your-key
 ```
 
